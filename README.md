@@ -92,6 +92,28 @@ Reminder: Once the device has been isolated, no users can use the device
   <img src="https://github.com/user-attachments/assets/da9aeb25-0ed3-466c-ad15-aca27b027711" alt="Screenshot description" width="600"/>
 </p>
 
+## Creating Investigation Package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Key Commands
 ```bash
