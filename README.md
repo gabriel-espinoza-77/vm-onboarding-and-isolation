@@ -83,10 +83,10 @@ To document and demonstrate the following processes:
 
 6. To release the device from isolation, return to the device page, click the three-dot menu (`...`), and select **Release from Isolation** under the **More Actions** section.  
    <p align="center">
-     <img src="https://github.com/user-attachments/assets/a89319c0-1800-4957-a5c5-9acfb7070ff7" alt="Release from isolation option" width="600"/>
-     <img src="https://github.com/user-attachments/assets/844494d3-095f-4a7c-91e3-67
-
-
+     <img src="https://github.com/user-attachments/assets/a89319c0-1800-4957-a5c5-9acfb7070ff7" alt="Release from isolation option" width="350"/>
+     <img src="https://github.com/user-attachments/assets/844494d3-095f-4a7c-91e3-67e2f4c3b858" alt="Release from isolation action" width="350"/>
+     <img src="https://github.com/user-attachments/assets/da9aeb25-0ed3-466c-ad15-aca27b027711" alt="Release from isolation confirmation" width="350"/>
+   </p>
 
 
 
